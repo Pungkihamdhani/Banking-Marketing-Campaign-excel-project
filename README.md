@@ -12,7 +12,8 @@ Next "age row", in this row there are too many values which vary from 18 to 80, 
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/add75808-1195-4770-89e8-df99fd2262f8)
 
 
-
+Pivot table
+A PivotTable in Excel is a powerful tool used for summarizing, analyzing, exploring, and presenting large sets of data. It allows you to dynamically reorganize and filter your data, providing a flexible and interactive way to look at different perspectives of your data set, below is one of the pivot table that I created
 
 
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/7728eda8-71ab-48a0-a2be-1dd7c6c50b2b)
