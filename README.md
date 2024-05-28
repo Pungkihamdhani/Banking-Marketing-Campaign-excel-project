@@ -1,6 +1,8 @@
 **Banking Marketing Campaign Project Overview**
 
-In this project I'll be working on "Banking Marketing Campaign" dataset, it tells us about the conversion number of program offered through communication channel conducted by one Bank.
+In this project I'll be working on "Banking Marketing Campaign" dataset, it tells us about the conversion number of program offered through communication channel conducted by Bank
+
+I'm using excel for data cleaning, manipulation,sorting, 
 
 
  
