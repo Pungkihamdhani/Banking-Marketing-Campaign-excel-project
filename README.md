@@ -1,5 +1,7 @@
 **Banking Marketing Campaign Project Overview**
 
+In this project I'll be working on "Banking Marketing Campaign" dataset, it tells us about the conversion number of program offered through communication channel conducted by one Bank.
+
 
  
 
