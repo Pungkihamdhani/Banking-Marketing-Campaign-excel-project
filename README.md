@@ -32,6 +32,6 @@ A PivotTable in Excel is a powerful tool used for summarizing, analyzing, explor
 ![Banking dashboard](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/aa71cd34-3a08-4681-a30f-9f9ecaeb7f6d)
 ![Conversion Rate dashboard](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/4311c469-745b-41f2-a24f-50c49da7613e)
 ![By  Comm Channel](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/0c712728-748b-4c58-8778-dd31ca28ffad)
-![Previous vs Current](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/1b20b72a-2aec-4dfa-ada9-9267afcc87a7)
+![Previous vs Current](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/49eff9a3-5a25-444e-a1d7-b4379b69550e)
 ![Growth Previous vs Current](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/01f89a70-343f-45f0-bc90-ed3c49a95ad0)
 
