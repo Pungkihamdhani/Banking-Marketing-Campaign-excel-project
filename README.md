@@ -2,7 +2,7 @@
 
 In this project I'll be working on "Banking Marketing Campaign" dataset, it tells us about the number of conversions from a program campaign offered through communication channel conducted by Bank
 
-For data analysis process, I use excel for data cleaning, preparation, transformation, visualization, statistical analysis and dashboard, and there are several rows that impacted during the process and also some new rows were made to obtain the result desired
+For data analysis process, I use excel for data cleaning, preparation, transformation, visualization, statistical analysis and dashboard, and there are several rows that impacted during the process and also some new rows were made to obtain the desired result 
 
 First thing that I notice, that there were no primary key, no row that has unique value on each column, so I create "ID row" to distinct each customer
 
