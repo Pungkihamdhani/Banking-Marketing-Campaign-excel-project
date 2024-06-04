@@ -18,9 +18,12 @@ A PivotTable in Excel is a powerful tool used for summarizing, analyzing, explor
 In below pivot table, data are filtered by occupation, populated the value with customer ID and categorized by conversion rows (converted, not converted), the purpose of this table is to analyze the conversion rate based on occupation
 
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/7728eda8-71ab-48a0-a2be-1dd7c6c50b2b)
-To get a better understanding of the table above, I add occupation contribution row (in percentage) which value formula 
-total customer of each occupation / the total customer of all occupation type X 100
 
+To get a better understanding of the table above, I add occupation contribution row (in percentage) as below :
+
+**total customer of each occupation / the grand total customer of all occupation type X 100**
+
+by having these value, we can analyze the contribution of each occupation type to the whole occupation population, whether these roles has a significant impact to the marketing campaign applied. I use pie chart to vizualize for an easy view   
 
 
 
