@@ -19,11 +19,20 @@ In below pivot table, data are filtered by occupation, populated the value with 
 
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/7728eda8-71ab-48a0-a2be-1dd7c6c50b2b)
 
-To get a better understanding of the table above, I add occupation contribution row (in percentage) as below :
+To get a better understanding of the table above, I add occupation contribution row (in percentage) by using below formula:
 
 **total customer of each occupation / the grand total customer of all occupation type X 100**
 
-by having these value, we can analyze the contribution of each occupation type to the whole occupation population, whether these roles has a significant impact to the marketing campaign applied. I use pie chart to vizualize for an easy view   
+by having these value, we can analyze the contribution of each occupation type to the whole occupation population, whether these roles has a significant impact to the marketing campaign. I use pie chart to vizualize for an easy view
+
+Next, I created conversion rate row of each occupation type, we populated the values by using below formula:
+
+**conversion number of each occupation / total customer of each occupation x 100**
+
+This row actually showing how effective the marketing campaign by calculating the conversion rate of each occupation type 
+
+
+
 
 
 
