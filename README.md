@@ -6,7 +6,7 @@ For data analysis process, I use excel for data cleaning, preparation, transform
 
 First thing that I notice, that there were no primary key, no row that has unique value on each column, so I create "ID row" to distinct each customer
 
-Next "age row", in this row there are too many values which vary from 18 to 80, so to make it simplier, I create "age range" using IF function, the purpose is to group these values to certain age stages so it will be easier when we do the "by age" analyze process
+Next "age row", in this row there are too many values which vary from 18 to 80, so to make it simplier, I create "age range" using IF function, the purpose is to group these values to certain age stages so it be easier for us to do the "by age" analysis process
 
  
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/add75808-1195-4770-89e8-df99fd2262f8)
