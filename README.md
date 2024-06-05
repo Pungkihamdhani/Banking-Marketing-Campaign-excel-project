@@ -41,9 +41,12 @@ This row shows the effectiveness of the marketing campaign by calculating the co
 
 
 
+![Conversion rate table](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/db0dc1b3-67df-4f60-9818-e0b7a1905eeb)
+![chart by occ overview](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/2c7b89be-5a5c-418e-b70d-6bfc3a47546c)
+![Recomm by occ](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/213188f2-8cdf-4186-b54a-0650f1a8965d)
 
 
-![Banking dashboard](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/aa71cd34-3a08-4681-a30f-9f9ecaeb7f6d)
+
 ![Conversion Rate dashboard](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/4311c469-745b-41f2-a24f-50c49da7613e)
 ![By  Comm Channel](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/0c712728-748b-4c58-8778-dd31ca28ffad)
 ![Previous vs Current](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/49eff9a3-5a25-444e-a1d7-b4379b69550e)
