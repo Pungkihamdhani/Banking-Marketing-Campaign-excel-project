@@ -44,8 +44,7 @@ Lastly I add "recommendation" row, this row will inform us which occupation role
       
       Minimum Conversion Rate of each occupation role above 10%
 
-So eventhough "Student" has the highest conversion rate, but will not recommended by the system due to the contribution rate is only 2%, too small to have impacted the whole market ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/be445d7f-81be-4daf-9ab6-7059f0d2f992)
-
+So eventhough "Student" has the highest conversion rate, but will not recommended by the system due to the contribution rate is only 2%, too small to have impacted the whole market 
 ![Recomm by occ](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/213188f2-8cdf-4186-b54a-0650f1a8965d)
 
 
