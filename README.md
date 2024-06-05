@@ -33,7 +33,7 @@ This row shows the effectiveness of the marketing campaign by calculating the co
 
 ![Conversion rate table](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/db0dc1b3-67df-4f60-9818-e0b7a1905eeb)
 
-the cell highlighted in pink are cells with value the met the criteria
+the cell highlighted in pink are cells with value that met the criteria
 
 ![chart by occ overview](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/2c7b89be-5a5c-418e-b70d-6bfc3a47546c)
 
@@ -41,11 +41,11 @@ the cell highlighted in pink are cells with value the met the criteria
 
 Lastly I add "recommendation" row, this row will inform us which occupation role are recommended as the suitable market segment for the product, I use IF function with parameter / Criteria as follow :
       
-      Minimum number of customer from each occupation role is 2,000 customer  
+      Minimum number of customer from each occupation role are 2,000 customer  
       
-      Minimum Conversion Rate of each occupation role above 10%
+      Minimum Conversion Rate of each occupation role are above 10%
 
-So eventhough "Student" has the highest conversion rate, but will not recommended by the system due to the contribution rate is only 2%, too small to have impacted the whole market,
+So eventhough "Student" has the highest conversion rate, but will not be recommended by the system due to the contribution rate is just 2%, too small to have impacted the whole market,
 whilst "Manual worker" has the third highest contribution rate of 21.5%, unfortunately the conversion rate is only 7%, if we decide to work on "manual worker" it will be to **costly and consume too much time**  
 
 ![Recomm by occ](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/213188f2-8cdf-4186-b54a-0650f1a8965d)
