@@ -23,26 +23,32 @@ To get a better understanding of the table above, I add "occupation contribution
 
 **total customer of each occupation / the grand total customer of all occupation type X 100**
 
-by having these value, we can analyze the contribution of each occupation type to the whole occupation population, whether these roles has a significant impact to the marketing campaign. I use pie chart to vizualize for an easy view
+by having these value, we can analyze the contribution of each occupation role to the whole occupation population, whether these roles has a significant impact to the marketing campaign. I use pie chart to vizualize for an easy view
 
 Next, I create "conversion rate" row of each occupation type, I populated the values by using below formula:
 
 **conversion number of each occupation / total customer of each occupation x 100**
 
-This row shows the effectiveness of the marketing campaign by calculating the conversion rate of each occupation type 
+This row shows the effectiveness of the marketing campaign by calculating the conversion rate of each occupation role 
 
 ![Conversion rate table](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/db0dc1b3-67df-4f60-9818-e0b7a1905eeb)
 
 
 ![chart by occ overview](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/2c7b89be-5a5c-418e-b70d-6bfc3a47546c)
 
+![Conversion Rate dashboard](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/4311c469-745b-41f2-a24f-50c49da7613e)
+
+Lastly I add "recommendation" row, this row will inform us which occupation role are recommended as the suitable market segment for the product, I use IF function with parameter / Criteria as follow :
+      Minimum number of customer from each occupation role is 2,000 customer  
+      Minimum Conversion Rate of each occupation role above 10%
+      
+![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/be445d7f-81be-4daf-9ab6-7059f0d2f992)
 
 ![Recomm by occ](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/213188f2-8cdf-4186-b54a-0650f1a8965d)
 
 
 
-![Conversion Rate dashboard](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/4311c469-745b-41f2-a24f-50c49da7613e)
+
 ![By  Comm Channel](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/0c712728-748b-4c58-8778-dd31ca28ffad)
 ![Previous vs Current](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/49eff9a3-5a25-444e-a1d7-b4379b69550e)
 ![Growth Previous vs Current](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/01f89a70-343f-45f0-bc90-ed3c49a95ad0)
-
