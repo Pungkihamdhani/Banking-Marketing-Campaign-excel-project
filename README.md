@@ -6,7 +6,7 @@ For data analysis process, I use excel for data cleaning, preparation, transform
 
 First thing that I notice, that there were no primary key, no row that has unique value on each column, so I create "ID row" to distinct each customer
 
-Next "age row", in this row there are too many values which vary from 18 to 80, so to make it simplier, I create "age range" using IF function, the purpose is to group these values to certain age stages so when we create the visualization it won't be too cluttered
+Next "age row", in this row there are too many values which vary from 18 to 80, so to make it simplier, I create "age range" using IF function, the purpose is to group these values to certain age stages so it will be easier when we do the "by age" analyze process
 
  
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/add75808-1195-4770-89e8-df99fd2262f8)
@@ -15,21 +15,21 @@ Next "age row", in this row there are too many values which vary from 18 to 80, 
 
 I create Pivot table as shown above, a Pivot Table in Excel is a powerful tool used for summarizing, analyzing, exploring, and presenting large sets of data. It allows you to dynamically reorganize and filter your data, providing a flexible and interactive way to look at different perspectives of your data set, below is one of the pivot table that I created
 
-In below pivot table, data are filtered by occupation, populated the value with customer ID and categorized by conversion rows (converted, not converted), the purpose of this table is to analyze the conversion rate based on occupation
+In below pivot table, data are filtered by occupation, populated the value with customer ID and categorized by conversion rows (converted, not converted), the purpose of this table is to **analyze the conversion rate based on occupation**
 
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/7728eda8-71ab-48a0-a2be-1dd7c6c50b2b)
 
-To get a better understanding of the table above, I add occupation contribution row (in percentage) by using below formula:
+To get a better understanding of the table above, I add "occupation contribution" row (in percentage) by using below formula:
 
 **total customer of each occupation / the grand total customer of all occupation type X 100**
 
 by having these value, we can analyze the contribution of each occupation type to the whole occupation population, whether these roles has a significant impact to the marketing campaign. I use pie chart to vizualize for an easy view
 
-Next, I created conversion rate row of each occupation type, we populated the values by using below formula:
+Next, I create "conversion rate" row of each occupation type, I populated the values by using below formula:
 
 **conversion number of each occupation / total customer of each occupation x 100**
 
-This row actually showing how effective the marketing campaign by calculating the conversion rate of each occupation type 
+This row shows the effectiveness of the marketing campaign by calculating the conversion rate of each occupation type 
 
 
 
