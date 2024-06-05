@@ -31,18 +31,12 @@ Next, I create "conversion rate" row of each occupation type, I populated the va
 
 This row shows the effectiveness of the marketing campaign by calculating the conversion rate of each occupation type 
 
-
-
-
-
-
-
-
-
-
-
 ![Conversion rate table](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/db0dc1b3-67df-4f60-9818-e0b7a1905eeb)
+
+
 ![chart by occ overview](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/2c7b89be-5a5c-418e-b70d-6bfc3a47546c)
+
+
 ![Recomm by occ](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/213188f2-8cdf-4186-b54a-0650f1a8965d)
 
 
