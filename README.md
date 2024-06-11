@@ -1,4 +1,4 @@
-**Banking Marketing Campaign Project Overview**
+ì**Banking Marketing Campaign Project Overview**
 
 In this project I'll be working on "Banking Marketing Campaign" dataset, it tells us about the number of conversions from a program campaign offered through communication channel conducted by Bank
 
@@ -19,11 +19,11 @@ In below pivot table, data are filtered by occupation, populated the value with 
 
 ![image](https://github.com/Pungkihamdhani/Banking-Marketing-Campaign-excel-project/assets/167069740/7728eda8-71ab-48a0-a2be-1dd7c6c50b2b)
 
-To get a better understanding of the table above, I add "occupation contribution" row (in percentage) by using below formula:
+To get a better understanding of the table above, I add "population share" row (in percentage) by using below formula:
 
 **total customer of each occupation / the grand total customer of all occupation type X 100**
 
-by having these value, we can analyze the contribution of each occupation role to the whole occupation population, whether these roles has a significant impact to the marketing campaign. I use pie chart to vizualize for an easy view
+by having these value, we can analyze the population of each occupation role to the whole occupation population, whether these roles has a significant impact to the marketing campaign. I use pie chart to vizualize for an easy view
 
 Next, I create "conversion rate" row of each occupation type, I populated the values by using below formula:
 
