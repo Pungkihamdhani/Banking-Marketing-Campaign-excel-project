@@ -1,4 +1,4 @@
-ì**Banking Marketing Campaign Project Overview**
+**Banking Marketing Campaign Project Overview**
 
 In this project I'll be working on "Banking Marketing Campaign" dataset, it tells us about the number of conversions from a program campaign offered through communication channel conducted by Bank
 
